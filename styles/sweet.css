@@ -88,7 +88,7 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
 .nav.nav-tabs>li.active>a,
 .post-comment,
 .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover
-{background-color:#2dbba4;}
+{background-color:#3f1f09 ;}
 
 h1,
 #about .media i:hover,
@@ -109,7 +109,7 @@ blockquote:before,
 .panel-heading a:focus,
 .panel-heading a.active,
 .panel-heading a
-{color:#2dbba4;}
+{color:#D0324B;}
 
 .team-member .profile-image,
 .btn:hover,.btn:focus,
@@ -124,7 +124,7 @@ blockquote:before,
 .navbar-custom .nav > .active > a,
 .color-section h2,
 .tab-content
-{border-color:#2dbba4;}
+{border-color:#3f1f09 ;}
 
 /*________  Light Yellow ________  */
 
