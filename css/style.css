@@ -457,7 +457,7 @@ ul.slider-pagi {padding-left:0px;}
 
 .slide:nth-child(1) .slide__bg {
   left: 0;
-  background-image: url(../img/slide1.jpg);
+  background-image: url(../img/slide1.png);
 }
 
 /* slide2 */
@@ -1935,7 +1935,8 @@ a.list-group-item:focus, a.list-group-item:hover, button.list-group-item:focus, 
     
     .navbar-header {
         float: none;
-        margin-top: -2px;
+		margin-top: -2px;
+		
     }
     .navbar-toggle {
         display: block;
